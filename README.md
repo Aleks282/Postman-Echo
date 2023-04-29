@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/1qygr2apdtwb8dsg?svg=true)](https://ci.appveyor.com/project/Aleks282/postman-echo)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
